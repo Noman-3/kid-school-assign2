@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+.quicksand-font-q{
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0 140;
+  }
+ /* common thing */
+.flex{
+    display: flex;
+}
+.font-w{
+  font-weight: 600;
+}
+.bt-primary{
+  width: 10px auto;
+  align-items: center;
+  border-radius: 8px;
+  padding: 10px 60.5px;
+  border-style: none;
+}
+.margin-bottom{
+  margin-bottom: 24px;
+}
+
+
+  /* navbar style */
+.navbar{
+  justify-content: space-between;
+  align-items: center;
+height: 62px;
+padding: 20px 140px;
+}
+.navbag{
+  height: 62px;
+  width: 202px;
+  align-items: center;
+}
+
+.nav-serial{
+  font-size: 20px;
+  justify-content: space-between;
+  gap: 32px;
+}
+
+.ho{
+font-weight: bold;
+color: #FEA301;
+}
+.ab{color: #01ACFD;
+
+}
+.fa{
+  color: #05D4DF;
+           
+}
+.ad{
+color: #5D58EF;
+}
+.navbt{
+  background-color: rgba(254, 163, 1, 1);
+  font-weight: 600;
+  color: white;
+}
+
+/* header style */
+.header{
+  align-items: center;
+  padding: 0 140px;
+  justify-content: space-between;
+  gap: 50px;
+}
+.htitle{
+  font-size: 56px; 
+  font-weight: bold;
+}
+.hbt{
+  font-size: 20px;
+  font-weight: bold;
+  background-color: black;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
